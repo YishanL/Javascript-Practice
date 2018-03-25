@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{985B6B18-8AE1-4CA3-AA27-6ECCB9F09A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{1C9936AC-4B30-4892-BB6B-1EB05A1A1404}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985B6B18-8AE1-4CA3-AA27-6ECCB9F09A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985B6B18-8AE1-4CA3-AA27-6ECCB9F09A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985B6B18-8AE1-4CA3-AA27-6ECCB9F09A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985B6B18-8AE1-4CA3-AA27-6ECCB9F09A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9936AC-4B30-4892-BB6B-1EB05A1A1404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9936AC-4B30-4892-BB6B-1EB05A1A1404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9936AC-4B30-4892-BB6B-1EB05A1A1404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9936AC-4B30-4892-BB6B-1EB05A1A1404}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B64974-FE43-47FC-9F77-6F3B37E3A6CF}
+	EndGlobalSection
+EndGlobal
